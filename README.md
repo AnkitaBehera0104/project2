@@ -1,2 +1,2 @@
 # New Project
-this project wad created from local repo
+this project wad created from local repo.
